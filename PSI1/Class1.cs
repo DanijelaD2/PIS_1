@@ -7,5 +7,6 @@ namespace PSI1
 {
     class Class1
     {
+        int a;
     }
 }
